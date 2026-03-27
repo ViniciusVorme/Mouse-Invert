@@ -1,4 +1,4 @@
-# 🖱️ Mouse Button Toggle
+# Mouse Button Toggle
 
 Aplicativo simples para **Windows** que inverte os botões esquerdo e direito do mouse usando uma hotkey configurável.
 
