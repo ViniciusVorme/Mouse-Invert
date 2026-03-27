@@ -1,4 +1,4 @@
-# main.py - Ponto de entrada do Mouse Button Toggle
+# main.py - Ponto de entrada
 
 from app import MouseToggleApp
 
